@@ -31,12 +31,3 @@ npm run electron:serve / cnpm run electron:serve
 ```
 npm run electron:build / cnpm run electron:build
 ```
-
-## 与我联系 (Stay in touch)
-
-- Author - [ShareQiu1994](https://github.com/ShareQiu1994)
-- Website - [https://liubf.com](https://liubf.com)
-
-## License
-
-[MIT licensed](LICENSE).
